@@ -1,2 +1,1 @@
-Playable Hang Man inside the terminal
-auto generate a random word to guess 
+Playable Hang Man inside the terminal with auto generated word 
